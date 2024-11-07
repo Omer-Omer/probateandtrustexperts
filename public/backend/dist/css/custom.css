@@ -1,0 +1,28 @@
+.c-m-0 {
+    margin: 0px;
+}
+.c-mt-3 {
+    margin-top: 3px;
+}
+
+.c-d-flex {
+    display: flex;
+}
+
+div.dataTables_wrapper div.dataTables_filter input {
+    border: 1px solid #cbc2c2;
+}
+
+.custom-alert-d {
+    padding: 5px !important;
+    background-color: transparent !important;
+    color: #e00404 !important;
+    border-color: transparent !important;
+}
+
+.custom-show-d {
+    background-color: #14c736;
+    padding: 3px 10px;
+    border-radius: 3px;
+    color: white;
+}
